@@ -1,0 +1,8 @@
+'Lauretta McClure', 'shanie.gorczany@example.com', '566666666','password', 24.69023, 46.685, 'address', 'client'
+'Kristian Beatty', 'brandyn50@example.org', '577777777','password', 24.69023, 46.685, 'address', 'driver'
+'Ms. Raquel Borer Sr.', 'hhudson@example.org', '588888888','password', 24.69022, 46.684, 'address', 'driver'
+'Jordane Schroeder', 'alden.rutherford@example.com', '584444444','password', 24.69018, 46.680, 'address', 'driver'
+'Dr. Lemuel Jacobson', 'norval23@example.net', '599999999','password', 24.69021, 46.683, 'address', 'driver'
+'Kiel Volkman', 'ynolan@example.net', '5111111110','password', 24.69020 , 46.682, 'address', 'driver'
+'Cortney Wolf', 'jast.lillian@example.org', '563333333','password', 24.69019, 46.681, 'address', 'driver'
+
